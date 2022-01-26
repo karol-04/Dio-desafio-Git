@@ -1,1 +1,20 @@
 Anotações úteis para auxiliar.
+
+Git comandos:
+git clone link (clona o repositório em uma pasta local)
+git status (mostra o status do seu repositório, incluindo se tem algum arquivo que foi modificado)
+git add . git add * (qualquer um dos dois comndos adicionam a modificação do arquivo)
+git commit -m "add arquivos" (adiciona a mensagem de envio das modificações)
+git pull (puxa a última versão do seu repositório salvo no github)
+git push (envia as modificações para o seu repositório web)
+git config --global user.name "Seu nome" (Configura o autor dos commit)
+git config --global user.email "seu email" (Configura o email do autor dos commits)
+
+Facilitadores:
+tab tab (completa os nomes ou comandos)
+control l (limpa o git bash)
+ls -a (mostra arquivos ocultos do diretório)
+del (deleta os arquivos dentro do diretório)
+rmdir nomeDoDiretório (exclui o diretório)
+cd .. (volta na pasta anterior)
+mv nomeDoArquivo ./nomeDoRepositório (move o arquivo para o repositório)
